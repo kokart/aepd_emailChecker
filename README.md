@@ -15,13 +15,13 @@ Una vez se ejecuta el programa Jar;
 
 Se generan dos archivos:
 - emailsNoValidos.csv: Fichero csv con los emails que no son válidos.
-- emailsValidos.csv: Fichero csv con los emails válidos. Este fichero no contiene ningún correo de la AEPD.
+- emailsValidos.csv: Fichero csv con los emails válidos. Este fichero no contiene ningún correo de la AEPD si se ha marcado la opción de Descartar esos emails.
 
 ## Cargar Proyecto
 Es un proyecto simple de Java. Se tiene que  crear un proyecto Java en cualquier IDE y cargar el código fuente. Además, hay que añadir al PATH del proyecto las dos librerías utilizadas para validar el email:
 - commons-validator-1.7
 - jmail-1.5.0
-Cualquier duda, se puede escribir a asoto@aepd.es
+
 
 Gracias,
 
