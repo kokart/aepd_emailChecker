@@ -10,7 +10,7 @@ Si se tiene Java 1.11 o superior, se tiene que utilizar la versión emailChecker
 
 Una vez se ejecuta el programa Jar;
 1. Seleccionar el fichero csv que contiene los emails que se quieren verificar
-2. Indicar si queremos que los correos de la agencia (Aepd y agpd se incluyan o no)
+2. Indicar si queremos que los correos de la agencia (Aepd y agpd) se incluyan o no.
 3. Pulsar en Generar Fichero
 
 Se generan dos archivos:
